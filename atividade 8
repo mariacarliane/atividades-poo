@@ -1,0 +1,12 @@
+importar  Atividade3
+
+
+classe  Teste :
+     teste def ():
+        p  =  Atividade3 . Ponto ( 1 , 1 )
+        imprimir ( p . qualQuadrante ())
+        quadrado  =  Atividade3 . Quadrilátero ( 5 , 4 )
+        imprimir ( Quadrado . contidoEmQ ( p ))
+
+
+Teste . teste ()
